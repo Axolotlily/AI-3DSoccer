@@ -161,8 +161,8 @@ class Scene3D{
         this.ball3D.castShadow = true;
 		//ball[i].receiveShadow = true;
 		this.scene.add( this.ball3D );
-		this.ball3D.scale.set( 6, 6, 6 );
-		this.ball3D.position.set( 0, 5, 0 );
+		this.ball3D.scale.set( 9, 9, 9 );
+		this.ball3D.position.set( 0, 9, 0 );
 
 
 		//------------ Ring -------------
